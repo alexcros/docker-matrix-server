@@ -1,0 +1,579 @@
+{
+	"characters": [
+		{
+			"id": 1,
+			"alias": "Neo",
+			"type": "resistance"
+		},
+		{
+			"id": 2,
+			"alias": "Trinity",
+			"type": "resistance"
+		},
+		{
+			"id": 3,
+			"alias": "Morpheus",
+			"type": "resistance"
+		},
+		{
+			"id": 4,
+			"alias": "Tank",
+			"type": "resistance"
+		},
+		{
+			"id": 5,
+			"alias": "The Oracle",
+			"type": "resistance"
+		},
+		{
+			"id": 6,
+			"alias": "Seraph",
+			"type": "resistance"
+		},
+		{
+			"id": 7,
+			"alias": "Kid",
+			"type": "resistance"
+		},
+		{
+			"id": 8,
+			"alias": "Link",
+			"type": "resistance"
+		},
+		{
+			"id": 9,
+			"alias": "Niobe",
+			"type": "resistance"
+		},
+		{
+			"id": 10,
+			"alias": "Agent Smith",
+			"type": "programs"
+		},
+		{
+			"id": 11,
+			"alias": "Agent Jones",
+			"type": "programs"
+		},
+		{
+			"id": 12,
+			"alias": "Agent Brown",
+			"type": "programs"
+		},
+		{
+			"id": 13,
+			"alias": "Agent Jackson",
+			"type": "programs"
+		},
+		{
+			"id": 14,
+			"alias": "Agent Johnson",
+			"type": "programs"
+		},
+		{
+			"id": 15,
+			"alias": "Agent Thompson",
+			"type": "programs"
+		},
+		{
+			"id": 16,
+			"alias": "Agent Pace",
+			"type": "programs"
+		},
+		{
+			"id": 17,
+			"alias": "The Architect",
+			"type": "programs"
+		},
+		{
+			"id": 18,
+			"alias": "Deus Ex Machina",
+			"type": "programs"
+		},
+		{
+			"id": 19,
+			"alias": "The Merovingian",
+			"type": "exiles"
+		},
+		{
+			"id": 20,
+			"alias": "Persephone",
+			"type": "exiles"
+		},
+		{
+			"id": 21,
+			"alias": "The Twins",
+			"type": "exiles"
+		},
+		{
+			"id": 22,
+			"alias": "The Trainman",
+			"type": "exiles"
+		},
+		{
+			"id": 23,
+			"alias": "The Keymaker",
+			"type": "exiles"
+		},
+		{
+			"id": 24,
+			"alias": "Rama Kandra",
+			"type": "exiles"
+		},
+		{
+			"id": 25,
+			"alias": "Kamala",
+			"type": "exiles"
+		},
+		{
+			"id": 26,
+			"alias": "Sati",
+			"type": "exiles"
+		},
+		{
+			"id": 27,
+			"alias": "The Spectrum family",
+			"type": "exiles"
+		},
+		{
+			"id": 28,
+			"alias": "The Elements",
+			"type": "exiles"
+		},
+		{
+			"id": 29,
+			"alias": "Spoon Boy",
+			"type": "potentials"
+		},
+		{
+			"id": 30,
+			"alias": "Hope",
+			"type": "potentials"
+		},
+		{
+			"id": 31,
+			"alias": "Saga Talmer",
+			"type": "potentials"
+		},
+		{
+			"id": 32,
+			"alias": "The Security Guard",
+			"type": "potentials"
+		},
+		{
+			"id": 33,
+			"alias": "The Healer",
+			"type": "potentials"
+		},
+		{
+			"id": 34,
+			"alias": "The Librarian",
+			"type": "potentials"
+		},
+		{
+			"id": 35,
+			"alias": "Chuang Tzu",
+			"type": "potentials"
+		},
+		{
+			"id": 36,
+			"alias": "Lisa",
+			"type": "potentials"
+		},
+		{
+			"id": 37,
+			"alias": "Ashley",
+			"type": "potentials"
+		},
+		{
+			"id": 38,
+			"alias": "Cryptos",
+			"type": "truce"
+		},
+		{
+			"id": 39,
+			"alias": "Anome",
+			"type": "truce"
+		},
+		{
+			"id": 40,
+			"alias": "The General",
+			"type": "truce"
+		},
+		{
+			"id": 41,
+			"alias": "Halborn",
+			"type": "truce"
+		},
+		{
+			"id": 42,
+			"alias": "Carlyne",
+			"type": "truce"
+		},
+		{
+			"id": 43,
+			"alias": "Helian",
+			"type": "truce"
+		},
+		{
+			"id": 44,
+			"alias": "Tesarova",
+			"type": "truce"
+		}
+	],
+	"info": [
+		{
+			"id": 1, 
+			"characterId": 1,
+			"alias": "Neo",
+			"name": "Thomas A. Anderson",
+			"description": "Neo, (born Thomas A. Anderson) the protagonist of The Matrix franchise, is a redpill rescued by Morpheus and the crew of the Nebuchadnezzar. Prophesized by The Oracle to be The One, he is set out on a course to free humanity from the Matrix and end the Machine War. He is portrayed in The Matrix Trilogy by Keanu Reeves.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/3/32/Neo.jpg"
+		},
+		{
+			"id": 2, 
+			"characterId": 2,
+			"alias": "Trinity",
+			"name": "Unknown",
+			"description": "Like the series' other principal characters, Trinity is a computer programmer and a hacker who has escaped from the Matrix, a sophisticated computer program in which most of the human race is imprisoned as virtual slaves. Though few specifics are revealed about her previous life inside the Matrix, we are told that Morpheus, one of a number of real-world hovercraft commanders, initially identified her and helped her escape from the program.At the beginning of the series, she is first mate on Morpheus' Nebuchadnezzar and serves mainly as a go-between for him and the individuals he wishes to free from the Matrix. As the series progresses, her primary importance as a character becomes her close relationship with Neo. She is skilled with computers, at operating vehicles both inside and outside the Matrix, and in martial arts.Throughout the series, her original name (prior to being freed from the Matrix) is never revealed.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/6/67/Trinityfull.jpg"
+		},
+		{
+			"id": 3, 
+			"characterId": 3,
+			"alias": "Morpheus",
+			"name": "Daniel (possibly)",
+			"description": "Morpheus is one of the protagonists of The Matrix franchise. In all three theatrical films, he is portrayed by actor Laurence Fishburne. Morpheus is a Zion operative who serves in the city's defense force against attack from the Machines. His hovercraft, the Nebuchadnezzar, has far less armament than its sister craft. As with all hovercraft, the \"Neb\" is equipped with an EMP weapon to disable any sentinels that they encounter.Morpheus (the name of his persona while a bluepill within the Matrix is unknown) is an even-mannered man with a personality that commands respect in many who encounter him. As a result of his belief in the prophecy, Morpheus devotes \"all of his life\" in search of The One, the destined human who will bring an end to the Machine War.Morpheus has become a spiritual figure to many citizens of Zion, much to the consternation of others who don't believe in the prophecy, such as the natural-born commander of the Zion defense force, Jason Lock.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/9/9b/Morpheus1.jpg"
+		},
+		{
+			"id": 4, 
+			"characterId": 4,
+			"alias": "Tank",
+			"name": "Tank",
+			"description": "Tank was the operator onboard the Nebuchadnezzar. He was born naturally in Zion, brother to Dozer and Zee, and died young, sometime between his final appearance in The Matrix and the start of The Matrix Reloaded, of unspecified causes. He is succeeded in his shipboard duties by Link. Tank is played by Marcus Chong. Tank's muscular body makes him feel like he's tough as a tank, hence the reason he named himself Tank.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/1/1e/Tank1.jpg"
+		},
+		{
+			"id": 5, 
+			"characterId": 5,
+			"alias": "The Oracle",
+			"name": "The Oracle",
+			"description": "The Oracle is a major supporting character in The Matrix franchise. She is a program with such insight into human psychology that she has clairvoyant abilities. She was initially created to interpret aspects of the human psyche and was responsible for the key principles behind the third \"current\" version of the Matrix. After having served her purpose, she went into Exile and aided the Resistance in the Machine War; she ultimately is responsible for ending the war through her manipulation of key members within the Resistance, including Neo. In the theatrical releases, she is portrayed by actresses Gloria Foster and Mary Alice.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/c/c9/The_Oracle.jpg"
+		},
+		{
+			"id": 6, 
+			"characterId": 6,
+			"alias": "Seraph",
+			"name": "Seraph",
+			"description": "Seraph[1] is a supporting character in the second and third films of The Matrix Trilogy. He is portrayed by Taiwanese Hong Kong based martial arts actor Collin Chou.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/0/01/Seraph_2.jpg"
+		},
+		{
+			"id": 7, 
+			"characterId": 7,
+			"alias": "Kid",
+			"name": "Kid",
+			"description": "Kid (born Michael Karl Popper) was a Matrix -born Zion operative, and one of the very few people to have freed themselves from the Matrix through self-substantiation. He served in the Zion Military during the Battle of Zion reloading APUs and ultimately opening the gate that allowed the Mjolnir to enter the Dock and clear it of Sentinels with an EMP blast. He idolized Neo during his life, and regarded him as humanity's savior after his death, going on to found and lead E Pluribus Neo, a hard line Zionite faction.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/2/23/Kid_zion.jpg"
+		},
+		{
+			"id": 8, 
+			"characterId": 8,
+			"alias": "Link",
+			"name": "Link",
+			"description": "Link was the operator on board the Nebuchadnezzar, assigned there after the previous operator, Tank, died. He is portrayed by Harold Perrineau.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/1/1b/Link2.jpg"
+		},
+		{
+			"id": 9, 
+			"characterId": 9,
+			"alias": "Niobe",
+			"name": "Unknown",
+			"description": "Niobe is a member of the Resistance and the captain of both the Logos and the Logos II. She served on the Logos with her first mate Ghost and operator Sparks.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/4/46/Niobe1.jpg"
+		},
+		{
+			"id": 10, 
+			"characterId": 10,
+			"alias": "Agent Smith",
+			"name": "Agent Smith",
+			"description": "Agent Smith (later simply \"Smith\") was an Agent of the Matrix and black smith and the main antagonist of the series. After being initially destroyed by Neo, he became an Exile program and manifested as a computer virus. He is consistently able to genuinely threaten Neo, and later the Machines and the Matrix itself. In the films, he is portrayed by Hugo Weaving.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/4/4d/Agent-smith-the-matrix-movie-hd-wallpaper-2880x1800-4710.png"
+		},
+		{
+			"id": 11, 
+			"characterId": 11,
+			"alias": "Agent Jones",
+			"name": "Agent Jones",
+			"description": "Agent Jones was an Agent who was a cohort of Agents Brown and Smith.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/7/72/The_Matrix_Dodge_this_%28HD%29_1756.jpg"
+		},
+		{
+			"id": 12, 
+			"characterId": 12,
+			"alias": "Agent Brown",
+			"name": "Agent Brown",
+			"description": "Agent Brown was one of the Agents, working together with Jones and Smith.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/1/1c/Agent_Brown.gif"
+		},
+		{
+			"id": 13, 
+			"characterId": 13,
+			"alias": "Agent Jackson",
+			"name": "Agent Jackson",
+			"description": "Agent Jackson was an Agent who was a cohort of Johnson and Thompson.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/e/e3/Agent_Jackson.png"
+		},
+		{
+			"id": 14, 
+			"characterId": 14,
+			"alias": "Agent Johnson",
+			"name": "Agent Johnson",
+			"description": "Agent Johnson was the leader of the upgraded Agents in The Matrix Reloaded. His role was somewhat more significant than his cohorts, Agents Thompson and Jackson.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/e/e5/Agent_Johnson.jpg"
+		},
+		{
+			"id": 15, 
+			"characterId": 15,
+			"alias": "Agent Thompson",
+			"name": "Agent Thompson",
+			"description": "Agent Thompson was an Agent who was a cohort of Johnson and Jackson.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/2/21/Agent_Thompson.jpg"
+		},
+		{
+			"id": 16, 
+			"characterId": 16,
+			"alias": "Agent Pace",
+			"name": "Agent Pace",
+			"description": "Agent Pace was a female agent who succeeded Agent Skinner as liaison for the Machines. Agent Pace was designed with this purpose in mind and, as such, spoke with as much emotion as she did on purpose. To enhance Pace's communication skills, she was programmed to utilize Italian in order to further humanize her, often referring to redpills as \"tesoro.\" Pace was believed by the Machines to be the first step towards better redpill relations.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/4/4d/Agent_Pace.png"
+		},
+		{
+			"id": 17, 
+			"characterId": 17,
+			"alias": "The Architect",
+			"name": "The Architect",
+			"description": "The Architect is a highly specialized, humorless program of the Machine world as well as the creator of the Matrix. As the chief administrator of the system, he is possibly a collective manifestation, or at the very least a virtual representation of the entire Machine mainframe.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/b/b5/1.gif"
+		},
+		{
+			"id": 18, 
+			"characterId": 18,
+			"alias": "Deus Ex Machina",
+			"name": "Deus Ex Machina",
+			"description": "The Deus Ex Machina[1] is the central interface of the Machine City. It creates a humanoid \"face\", similar to that of a human baby, from a swarm of flying insect-like droids, which it uses to communicate.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/6/64/Matrix-revolutions-deus-ex-machina-2-george-hull.jpg"
+		},
+		{
+			"id": 19, 
+			"characterId": 19,
+			"alias": "The Merovingian",
+			"name": "The Merovingian",
+			"description": "The Merovingian (sometimes called The Frenchman) is an old, powerful program that resides within the Matrix. Self-described as a \"trafficker of information\", the Merovingian behaves much as a leader of a powerful organized crime syndicate. He and his wife Persephone operate a smuggling ring providing haven for exiled programs in the Matrix. In the films, he is portrayed by Lambert Wilson.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/d/d0/Merovingian.jpg"
+		},
+		{
+			"id": 20, 
+			"characterId": 20,
+			"alias": "Persephone",
+			"name": "Persephone",
+			"description": "Persephone is the wife of The Merovingian and also the one who betrayed him to aid the Resistance.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/9/9e/Persephone_2.jpg"
+		},
+		{
+			"id": 21, 
+			"characterId": 21,
+			"alias": "The Twins",
+			"name": "The Twins",
+			"description": "The Twins are two of the Merovingian's henchmen in The Matrix film trilogy, originating from the machines' second attempt at creating a viable matrix. It is unknown why the Twins became Exiles but they are apparently very infamous with the Agents, who waste no time trying to attack them during the freeway chase.Rumors emerged before the second film's release that their reason for becoming Exiles was that their programming became infected with a virus, which the Merovingian was able to remove (although not before it damaged their appearance and emotional subroutines, resulting in their emotionless demeanor); scenes from the chase agree. Link cannot work out their program type and calls them simply \"The Twins\". Some suspect they were former Agent programs that became exiles when replaced with the more \"modern\" Agents.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/5/57/Twins2.jpg"
+		},
+		{
+			"id": 22, 
+			"characterId": 22,
+			"alias": "The Trainman",
+			"name": "The Trainman",
+			"description": "The Trainman is an exile who created and operates Mobil Avenue and is a servant of another exile program known as the Merovingian.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/2/28/The_Trainman_2.jpg"
+		},
+		{
+			"id": 23, 
+			"characterId": 23,
+			"alias": "The Keymaker",
+			"name": "The Keymaker",
+			"description": "The Keymaker (sometimes spelled Key Maker) was a program created to open up the door to the Source for The One. In the Sixth Matrix he was kept prisoner in the Chateau of the Merovingian[1], during which time he saved Niobe and Ghost from an Agent. Morpheus, Neo and Trinity, with the help of Persephone, manage to free the Keymaker.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/d/dd/Keymaker.jpg"
+		},
+		{
+			"id": 24, 
+			"characterId": 24,
+			"alias": "Rama Kandra",
+			"name": "Rama Kandra",
+			"description": "Rama Kandra, is an exile program created by the Matrix, appearing at Mobil Avenue Station. He is played by the actor Bernard White.He and his wife Kamala created their daughter program Sati and love her. He meets Neo at Mobil Avenue where Neo is surprised to hear Rama speak of love as he believes it is a human emotion. Rama Kandra states its not the word that means anything, the word is only a placeholder for how he feels about his daughter. He made a deal with the Merovingian so his daughter could be free to live in the Matrix.Rama is also seen leaving as Neo goes to meet the Merovingian.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/0/03/Rama_Kundra.png"
+		},
+		{
+			"id": 25, 
+			"characterId": 25,
+			"alias": "Kamala",
+			"name": "Kamala",
+			"description": "Kamala is a program and also an interactive software programmer. She is also the wife of Rama Kandra and mother of Sati.While in Mobil Avenue train station, Neo meets Kamala's husband Rama Kandra, whom he has a conversation with, along with their daughter as they are to enter the Matrix.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/1/1f/Kamala.gif"
+		},
+		{
+			"id": 26, 
+			"characterId": 26,
+			"alias": "Sati",
+			"name": "Sati",
+			"description": "Sati was an exile that was created without a purpose[1] by programs Rama-Kandra and Kamala. The Oracle, who protected Sati after she was smuggled into the Matrix, believed that the child would someday have a large impact on the future of both humans and the Machines.[2]",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/1/18/Sati.jpg"
+		},
+		{
+			"id": 27, 
+			"characterId": 27,
+			"alias": "The Spectrum family",
+			"name": "The Spectrum family",
+			"description": "The Spectrum family (sometimes just called The Spectrum) are one of the most powerful underworld exile groups, along with the Merovingians and Element, and operate in the Westview district. Created by the patriarch Mr. Black and matriarch Dame White (with the exception of Grisaille), the children are often referred to on their own as the Spectrum Siblings.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/7/77/Mr_Black.jpg"
+		},
+		{
+			"id": 28, 
+			"characterId": 28,
+			"alias": "The Elements",
+			"name": "The Elements",
+			"description": "The Elements are a group of Exiles which used to be facets of one larger program before they escaped into the Matrix. The code comprising them was sundered in their escape from the Machine Source. Each is fractured along a different line, focused in a different way — some would call them eccentric, but others prefer the term \"broken.\" In their new lives they find themselves drawn to one another: to compete, cooperate, and monitor each other's activities with obsessive dedication.You might think of them as a group of close friends who grew up together, defining themselves by their relationships with each other. Now that they've left the safety of the Source, they must make their way alone.The vagaries of their new lonesome existences sometimes prove too much for them to bear. They long for the simplicity and clarity of their former life. They take any opportunity to interact with each other, and against each other, to remind themselves of the halcyon days when they were important programs with purpose, rather than cast-offs hiding in the backwaters of the Matrix.The Elements are primarily located in Richland.",
+			"coverURL": ""
+		},
+		{
+			"id": 29, 
+			"characterId": 29,
+			"alias": "Spoon boy",
+			"name": "Spoon boy",
+			"description": "Spoon Boy was the nickname given to an unnamed redpill who was one of a handful of potentials privileged enough to study under the Oracle.He lived with her, the Priestess, and the other potentials where they were taught about the nature of the system and practiced meditation and their abilities to bend the Matrix, manipulating objects with their minds alone (such as bending spoons by telekinesis which gave him his name). The shaven head and robes that Spoon Boy wears make him resemble a Buddhist monk, with his teachings also resembling Buddhist doctrine.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/6/63/Spoon_boy.png"
+		},
+		{
+			"id": 30, 
+			"characterId": 30,
+			"alias": "Hope",
+			"name": "Hope",
+			"description": "Hope was a little girl who in the Matrix had the ability to change her RSI at will, sometimes adopting the body of an elderly woman or a grown man. She resided in Saint George's Orphanage and had a white rabbit stuffed doll.The Oracle cryptically told some Resistance members about her by saying \nand the child would be hope\n and there was an assumption she was gifted or aware.Perhaps the Agents didn't want her to be found, and the orphanage was burnt. The next day, Eight Ball went to the deserted orphanage to find her but he was killed by fire, not listening to Charon's warnings. Soon after, Link made the attempt and realized that the tag was on a man instead. He followed him on the roof while chased by Agents.Link saved her, by riding a phone line to the ground and eventually rescued her from the Matrix.The next day they introduced her to the hovercraft's captain who came from Zion.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/3/30/Pinup_vanfleet.jpg"
+		},
+		{
+			"id": 31, 
+			"characterId": 31,
+			"alias": "Saga Talmer",
+			"name": "Saga Talmer",
+			"description": "Saga Talmer was a potential studying under the guidance of the Oracle. During her time with the Oracle, she successfully evaded the capture of three Agents and found an exit.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/b/bb/Saga_Talmer.jpeg"
+		},
+		{
+			"id": 32, 
+			"characterId": 32,
+			"alias": "The Security Guard",
+			"name": "The Security Guard",
+			"description": "The Security Guard was a former police officer who was retired after seeing Neo in action running along walls and in combat. He worked for six months as a security guard in an abandoned Church tower until Neo went to rescue him, as what he had witnessed had put in danger.Security GuardOn seeing Neo again he was shocked, believing that he had shot him dead at their last encounter. He ran away as Neo tried to persuade him that he was there to help. Thinking that the S.W.A.T. team that had arrived were there to arrest Neo, he escaped to the belfry where an Agent told him to shoot Neo. He hesitated as Neo attacked the Agent, who in turn put a gun to the Security Guard's head. After defeating all of the S.W.A.T. and the Agent, the Security Guard followed Neo down out of the church.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/d/d9/Security_Guard.jpg"
+		},
+		{
+			"id": 33, 
+			"characterId": 33,
+			"alias": "The Healer",
+			"name": "The Healer",
+			"description": "The Healer was a potential who made medicines to cure various illnesses from his Red Pill Herbal Remedies shop in Chinatown. While he believed that some ailments were not meant to be cured, and any who attempted were taken by demons for their arrogance, he tried to do so after his daughter fell victim to one of those ailments. When Neo arrived The Healer believed him to be a demon and resigned himself to his fate, and said that he would follow him. Afterwards he showed little regard for his own life; walking directly into the crossfire of SWAT teams shooting at them--to the annoyance of Neo.At the end of the level, it is revealed by a newspaper that The Healer's daughter was miraculously cured.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/a/a4/Matrix3W32S_2011-06-28_09-27-40-68.jpg"
+		},
+		{
+			"id": 34, 
+			"characterId": 34,
+			"alias": "The Librarian",
+			"name": "The Librarian",
+			"description": "The Librarian was one of potentials who needs to be rescued by Neo in The Matrix: Path of Neo prior to the events of Reloaded.She became aware of the illusion of the Matrix when she noticed that a certain book would infinitely self-replicate immediately after she removed it from its place on a shelf. Agents Brown and Jones showed up to take her away, but Neo arrived in time to save her from custody. The Librarian became hysterical and inconsolable at the revelation that her reality was a lie, and rejected any help from Neo. In the end however, she decided to go with him, realizing that she had little choice.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/2/24/The_Librarian.jpg"
+		},
+		{
+			"id": 35, 
+			"characterId": 35,
+			"alias": "Chuang Tzu",
+			"name": "Chuang Tzu",
+			"description": "Chuang Tzu is one of the Potentials that Neo has to rescue as the One in The Matrix: Path of Neo. Before you have to escort him, he will challenge you to a fight in order to prove your worthiness. When Neo defeats him in the game, he gains the 6-Hit Strike Combo.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/9/9a/Matrix3W32S_2010-04-24_04-43-18-80_resize.jpg"
+		},
+		{
+			"id": 36, 
+			"characterId": 36,
+			"alias": "Lisa",
+			"name": "Lisa",
+			"description": "Lisa was Ashley's twin sister, daughter of Maggie. They both resided aboard a ship full of potentials.The sisters wanted to surprise her Mom for her birthday by hacking the Matrix to trace her so they could see her. Lisa was jacked into the Matrix by Ashley during meal time. But the tracking was detected and Sentinels found Maggie's ship, the Calappidae.While Maggie hugged her daughter, the ship was destroyed, killing everyone jacked in.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/5/59/Lisa.png"
+		},
+		{
+			"id": 37, 
+			"characterId": 37,
+			"alias": "Ashley",
+			"name": "Ashley",
+			"description": "Ashely is Lisa's twin sister, daughter of Maggie. They both resided aboard a ship full of potentials.The sisters wanted to surprise their mum for her birthday by hacking the Matrix to trace her in order to see her. Ashley jacked Lisa into the Matrix during meal time, and the tracing was detected. Sentinels found Maggie's ship, the Calappidae.While Maggie hugs her daughter, the ship is destroyed, killing everyone jacked in.",
+			"coverURL": ""
+		},
+		{
+			"id": 38, 
+			"characterId": 38,
+			"alias": "Cryptos",
+			"name": "Cryptos",
+			"description": "Cryptos was a Zionite captain during the war against the Machines. He was one of the few captains who were in Zion when the other hovercrafts were destroyed by Smith. He was seen by his peers as an extremist, believed to have once requested the use of virtual nukes to destroy the Matrix (which would in turn kill all the bluepills).Cryptos6kz1evCryptos, prior to The Matrix Online Chapter 7.1.3After the war, Cryptos disappeared; it is believed this is when he turned into a Cypherite. No one knows if he left on his own accord or was taken by force, but we do know that he had turned from a Redpill activist to a Cypherite or Bluepill wanna-be. Cryptos is believed to be the leader of the Cypherites although no one knew about him until after Veil was released from her prison and rejoined the Cypherites.More recently in The Matrix Online, Cryptos was attacked by Seraph for reasons currently unknown. This attack left Cryptos blinded, and revealed that Cryptos was under the control of the Machines. This revalation has created a rather tense situation between Zion and the Machines, as this revelation is viewed as a direct violation of the truce formed by Neo.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/6/69/Cryptos.jpg"
+		},
+		{
+			"id": 39, 
+			"characterId": 39,
+			"alias": "Anome",
+			"name": "Anome",
+			"description": "Anome,[1] the onetime associate of Niobe, eventually succumbed to his greed for power and split from Zion to found his own organization, known as \"Unlimit\". Ruled by his own sense of inadequacy and personal demons, Anome became a tyrant within his organization, inflicting torture and death on those who questioned his orders. Eventually it was dissent from within his own group which allowed the Agents the information they needed to track down Anome and eliminate him. There exists a simulacrum which is a powerful copy of the Unlimit leader.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/7/7b/Anome.jpg"
+		},
+		{
+			"id": 40, 
+			"characterId": 40,
+			"alias": "The General",
+			"name": "The General",
+			"description": "The General was originally the lead Sentinel involved in the assault on Zion at the end of the Machine War, his efforts were prompted by the sacrifice of Neo which resulted in the Truce which ended the conflict. Since the beginning of the peace, the General (AKA General David Beatts), as he has become known, has called together all Sentinels loyal to him to a fortress known as \"Stalingrad\" from which they broadcast a pirate signal to download themselves into the Matrix. His self appointed mission is to re-ignite the war between Zion and the Machines through a variety of complicated schemes, while simultaneously avoiding the attempts of the system to delete him and his forces.Through a series of failures and miscalculations, the General eventually becomes a tool of the Merovingian and the military leader of his forces in the Real World. It is through the assistance of the General that the Merovingian discovers the nature of the Machines' dependence on human beings to fuel their power plants, as well as uncovering the nature of the Oligarchy and the biological interface program.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/3/32/General1.jpg"
+		},
+		{
+			"id": 41, 
+			"characterId": 41,
+			"alias": "Halborn",
+			"name": "Halborn",
+			"description": "Halborn is a member of a secretive organization known as the Oligarchs, appeared inside the Matrix as a glowing wireframe figure. Attacks against him proved futile due to his tremendous levels of system access--enabling him issue override codes, altering the physics of the simulation and seizing control of all software active around him. The Machines correctly identified him to be a freeborn human but remained uninformed as to his true nature and motives. He has become fascinated with Zion and the two recurring humans that are intriguingly connected to it--Neo and Trinity. His investigations have brought him into conflict with his rival Oligarch Carlyne. The Merovingian supports him, while the Zionites supporting Carlyne are against him. The Oracle's decision to refuse him access to the files he sought led to her deletion.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/9/9a/Oligarch.jpg"
+		},
+		{
+			"id": 42, 
+			"characterId": 42,
+			"alias": "Carlyne",
+			"name": "Carlyne",
+			"description": "Carlyne is a member of the secretive organsiation of freeborn humans known as the Oligarchs. He is a glowing figure that appeared in the Matrix some time after Halborn, who the Machines claimed to be a freeborn human. He is against Halborn, and is working for the resistance.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/f/f1/Carlyne.jpg"
+		},
+		{
+			"id": 43, 
+			"characterId": 43,
+			"alias": "Helian",
+			"name": "Helian",
+			"description": "Helian was an Oligarch that appeared after the situation with Halborn and Carlyne. In the Matrix he has the appearance of a red-hued Oligarch with no wireframes. He, along with Tesarova are after the Biological Interface Program.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/2/24/Helian_ult.JPG"
+		},
+		{
+			"id": 44, 
+			"characterId": 44,
+			"alias": "Tesarova",
+			"name": "Tesarova",
+			"description": "Tesarova was an Oligarch who appeared alongside Helian after the departure of their fellows, Halborn and Carlyne.",
+			"coverURL": "https://vignette.wikia.nocookie.net/matrix/images/8/8c/Tesarova.png"
+		}
+	],
+	"profile": { "name": "idenjoe" }
+}
